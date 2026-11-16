@@ -1,20 +1,24 @@
 # 3. Descrição das Personas
 
-> A persona representa um usuário do produto ou serviço, descrevendo não apenas o seu papel, mas também suas necessidades específicas. Sua descrição deve incluir nome (com foto ou ilustração opcional), perfil, dores e expectativas.
+As personas abaixo são fictícias e representam possíveis usuários do TaskEasy. Elas foram definidas para orientar as funcionalidades a partir das necessidades de organização de atividades pessoais, acadêmicas e profissionais.
 
-## Persona 1: [Nome da Persona]
+## Persona 1: Marina Costa (Estudante)
 
-- **Perfil:** [Descreva o perfil da persona]
-- **O quê a persona faz:** [Descreva o que ela faz no seu dia-dia que poderá com relação ao produto de software]
-- **Dores/Necessidades:** [Descreva a dores/necessidades que o produto de software precisa curar/atender para a persona]
-- **O que a persona espera:** [Descreva as expectativas que a persona tem com relação ao produto de software]
+- **Perfil:** 21 anos, estudante universitária. Utiliza smartphone e notebook para acompanhar aulas, trabalhos e atividades pessoais.
+- **O quê a persona faz:** Marina concilia aulas, trabalhos acadêmicos e compromissos pessoais. Atualmente, anota tarefas em papéis e aplicativos diferentes.
+- **Dores/Necessidades:** Tem dificuldade para acompanhar prazos quando as tarefas ficam espalhadas; pode esquecer datas de entrega e não consegue identificar rapidamente o que está pendente ou atrasado.
+- **O que a persona espera:** Registrar atividades rapidamente, consultar o que precisa ser feito, identificar tarefas próximas do prazo e marcar atividades concluídas.
 
-## Persona 2: [Nome da Persona]
+> “Quero abrir uma lista e saber rapidamente o que preciso fazer hoje.”
 
-- **Perfil:** [Descreva o perfil da persona]
-- **O quê a persona faz:** [Descreva o que ela faz no seu dia-dia que poderá com relação ao produto de software]
-- **Dores/Necessidades:** [Descreva a dores/necessidades que o produto de software precisa curar/atender para a persona]
-- **O que a persona espera:** [Descreva as expectativas que a persona tem com relação ao produto de software]
+## Persona 2: Pedro Almeida (Trabalhador)
+
+- **Perfil:** 30 anos, assistente administrativo. Utiliza principalmente notebook.
+- **O quê a persona faz:** Pedro lida com pequenas demandas durante o expediente e também possui compromissos pessoais. Precisa registrar atividades e acompanhar seu andamento.
+- **Dores/Necessidades:** Enfrenta listas desorganizadas, dificuldade para localizar uma atividade específica e falta de clareza sobre o que já foi finalizado.
+- **O que a persona espera:** Organizar tarefas profissionais e pessoais, alterar informações quando necessário, separar atividades pendentes das concluídas e evitar esquecer tarefas simples.
+
+> “Preciso de algo simples para controlar minhas tarefas sem perder tempo configurando.”
 
 ---
 
