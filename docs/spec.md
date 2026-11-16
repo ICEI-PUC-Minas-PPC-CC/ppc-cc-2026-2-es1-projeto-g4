@@ -1,20 +1,21 @@
-# Índice de Especificação - Projeto template_1
+# Índice de Especificação - Projeto TaskEasy
 
-> **Nota para o Agente de IA:** A especificação deste projeto é modular. Para entender o contexto, consulte estritamente os arquivos listados abaixo na pasta `/docs/`.
+> A especificação inicial do TaskEasy está organizada nos artefatos de descoberta abaixo. Este índice deverá ser ampliado conforme as próximas etapas de Engenharia de Software.
 
-## 1. Contexto de Negócio (Lean Inception Completa)
-Para entender a origem das decisões de produto, consulte na ordem:
-* `/docs/01_lean_inception/01_visao_produto.md`
-* `/docs/01_lean_inception/02_produto_e_nao_e_faz_nao_faz.md`
-* `/docs/01_lean_inception/03_personas.md`
-* `/docs/01_lean_inception/04_brainstorm_funcionalidades.md`
-* `/docs/01_lean_inception/05_revisao_tecnica_ux_negocios.md`
-* `/docs/01_lean_inception/06_jornadas_dos_usuarios.md`
-* `/docs/01_lean_inception/07_funcionalidades_nas_jornadas.md`
-* `/docs/01_lean_inception/08_sequenciador.md`
-* `/docs/01_lean_inception/09_canvas_mvp.md`
+## 1. Contexto do Produto
 
-## 2. Regras e Critérios de Aceite (PBB & BDD)
-Antes de implementar qualquer funcionalidade, leia obrigatoriamente:
-* `/docs/02_pbb/01_canvas.md` (O problema a ser resolvido)
-* `/docs/02_pbb/02_pdd_itens.md` (Os exemplos concretos para os testes)
+Para compreender o problema, os usuários e a proposta do produto, consulte:
+
+- `/docs/01_descoberta/01_visao_do_produto.md`
+- `/docs/01_descoberta/02_personas.md`
+- `/docs/01_descoberta/03_product_backlog.md`
+
+## 2. Requisitos e Critérios de Aceitação
+
+O Product Backlog contém as dez funcionalidades iniciais, as necessidades atendidas, a avaliação técnica/UX/negócio, o sequenciamento por ondas e os requisitos não funcionais.
+
+Antes de implementar uma funcionalidade, a equipe deverá detalhar seus critérios de aceitação e os cenários de teste correspondentes. O backlog original do TaskEasy fornece critérios iniciais para cadastro, autenticação e gerenciamento de tarefas; a consolidação está refletida no documento de Product Backlog deste repositório.
+
+## 3. Planejamento Técnico
+
+Consulte `/docs/plan.md`. A stack e os detalhes arquiteturais ainda precisam ser definidos pela equipe.

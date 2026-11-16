@@ -1,39 +1,42 @@
-# 🚀 [NOME DO PRODUTO]
+# TaskEasy
 
-> **Template-base para o projeto da disciplina de Engenharia de Software I do curso de Ciência da Computação da PUC Minas (unidade Poços de Caldas).**
+> **Projeto acadêmico:** Engenharia de Software I — Ciência da Computação, PUC Minas, unidade Poços de Caldas.
 
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
-Este repositório é o ponto de partida para desenvolver soluções robustas, priorizando a compreensão do domínio de negócios antes da implementação técnica.
+O **TaskEasy** é um gerenciador simples de tarefas pessoais. A proposta é reunir em um único lugar as atividades do dia a dia, permitindo registrar tarefas, definir prazos e acompanhar o que está pendente ou concluído.
 
-## 👥 Equipe
+## Equipe
 
-Informe os nomes dos integrantes do grupo deste projeto:
+| Integrante | GitHub |
+|:--|:--|
+| Carlos Leonel | [cxrlos99leonel](https://github.com/cxrlos99leonel) |
+| Henrique Rodrigues | [Henrique-Rodrigues132](https://github.com/Henrique-Rodrigues132) |
+| Luis Bordin | [LuisBordin](https://github.com/LuisBordin) |
+| João Vitor Garçon | [JoaoGarcon](https://github.com/JoaoGarcon) |
+| Jonas Henrique | [JonasHTeixeira](https://github.com/JonasHTeixeira) |
 
-- [Nome Completo] - [GitHub/LinkedIn]
-- [Nome Completo] - [GitHub/LinkedIn]
-- [Nome Completo] - [GitHub/LinkedIn]
-- [Nome Completo] - [GitHub/LinkedIn]
-- [Nome Completo] - [GitHub/LinkedIn]
-- [Nome Completo] - [GitHub/LinkedIn]
-- [Nome Completo] - [GitHub/LinkedIn]
+## Etapas do Projeto
 
-## 🏗️ Etapas do Projeto
-
-O desenvolvimento estrutura-se em etapas interdependentes, o que garante a rastreabilidade desde a concepção até a entrega contínua.
+O desenvolvimento está organizado em etapas, mantendo a documentação do produto e a rastreabilidade das necessidades dos usuários.
 
 ### 1. Etapa 1: Concepção do Produto
 
-Foco na fase de Descoberta (Discovery) para a elaboração da versão inicial do backlog do produto.
+Foco na descoberta do produto e na elaboração do Product Backlog inicial.
 
-#### Artefatos:
+#### Artefatos
 
 - [`/docs/01_descoberta/01_visao_do_produto.md`](./docs/01_descoberta/01_visao_do_produto.md)
 - [`/docs/01_descoberta/02_personas.md`](./docs/01_descoberta/02_personas.md)
 - [`/docs/01_descoberta/03_product_backlog.md`](./docs/01_descoberta/03_product_backlog.md)
 - [`/docs/01_descoberta/99_video_etapa_1.md`](./docs/01_descoberta/99_video_etapa_1.md)
 
-## 📄 Licença
+## Escopo inicial
 
-Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [`LICENSE`](LICENSE.md) para mais detalhes.
+A proposta inicial contempla cadastro e acesso à conta, criação e consulta de tarefas, definição de vencimento, edição, exclusão, conclusão, filtros por situação, ordenação por prazo e contadores de tarefas pendentes e concluídas.
+
+Não fazem parte do escopo inicial compartilhamento de tarefas, notificações, calendário integrado ou colaboração entre usuários.
+
+## Licença
+
+Este projeto utiliza a licença MIT. Consulte [`LICENSE.md`](./LICENSE.md) para mais detalhes.

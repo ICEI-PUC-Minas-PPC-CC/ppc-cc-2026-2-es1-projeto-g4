@@ -1,7 +1,12 @@
 # Lista de Tarefas (Tasks)
 
-- [ ] Tarefa 1: Configurar a infraestrutura base.
-- [ ] Tarefa 2: Criar as entidades de Domínio e Erros Personalizados.
-- [ ] Tarefa 3: Criar testes unitários (TDD) baseados em `02_pbb_itens.md`.
-- [ ] Tarefa 4: Implementar a regra de negócio na pasta `src/` até o teste passar.
-- [ ] Tarefa 5: Validar conformidade com a LGPD usando o `.cursorrules`.
+- [ ] Validar com a equipe a visão do produto e as duas personas.
+- [ ] Revisar as dez funcionalidades, suas avaliações e o sequenciamento por ondas.
+- [ ] Confirmar os requisitos não funcionais e seus critérios mensuráveis.
+- [ ] Definir a stack tecnológica e a arquitetura da aplicação.
+- [ ] Detalhar os critérios de aceitação e cenários de teste de cada funcionalidade.
+- [ ] Implementar cadastro e autenticação de usuários.
+- [ ] Implementar cadastro, consulta, edição e exclusão de tarefas.
+- [ ] Implementar conclusão, filtros, ordenação e contadores.
+- [ ] Executar testes funcionais e de regras de negócio.
+- [ ] Revisar privacidade, segurança e documentação antes da entrega.
